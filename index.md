@@ -47,13 +47,13 @@ Hi!  I'm Jasper, a PhD student at the Australian Centre for Field Robotics, Univ
 
 <img align="right" src="images/monodepth.jpg" width="300">  **Improving Monocular Depth Prediction in Ambiguous Scenes Using a Single Range Measurement**  
 *Brown, J, Sukkarieh, S, “Improving Monocular Depth Prediction in Ambiguous Scenes Using a Single Range Measurement,” in 6th IFAC Conference on Sensing, Control and Automation Technologies for Agriculture (AGRICONTROL), 2019. [https://doi.org/10.1016/j.ifacol.2019.12.565](https://doi.org/10.1016/j.ifacol.2019.12.565)*  
-[code](https://github.com/jaspereb/TRC) | [paper](https://www-sciencedirect-com.ezproxy.library.sydney.edu.au/science/article/pii/S240589631932484X)
+[code](https://github.com/jaspereb/TRC) | [paper](https://www-sciencedirect-com/science/article/pii/S240589631932484X)
 
  <br/><br/>
  
 <img align="right" src="images/COMPAG.png" width="300">  **Automated Aerial Animal Detection When Spatial Resolution Conditions Are Varied**  
 *Brown, J, Qiao, Y, Clark, C, Lomax, S, Rafique, K, Sukkarieh, S, “Automated Aerial Animal Detection When Spatial Resolution Conditions Are Varied ,” submitted to Computers and Electronics in Agriculture, 2021.*  
-[paper](ARXIV LINK IS STILL BEING CREATED))
+[paper](https://arxiv.org/abs/2110.01329))
  
  <br>
 ___
@@ -67,7 +67,7 @@ Throughout my research and tutoring work I've needed to master a few tools, and 
 * **Retinanet Tutorial** ([code](https://github.com/jaspereb/Retinanet-Tutorial), [video](https://www.youtube.com/watch?v=mr8Y_Nuxciw)) Covers the creation of a new dataset for Keras-Retinanet and training this object detector on your new data.
 * **UR5 With ROS Tutorial** ([code](https://github.com/jaspereb/UR5_With_ROS_Moveit_Tutorial), [video](https://www.youtube.com/watch?v=18SQssJ-l_Y&feature=youtu.be)) How to connect a UR5 arm to ROS and use it with Moveit!.
 * **T265 Pose Tracking Data** ([code](https://github.com/jaspereb/TestingRealsenseT265)) Testing the pose tracking accuracy of the Realsense T265 SLAM camera.
-* **Camera Proejction Tutorial** ([code](https://github.com/jaspereb/CameraProjectionCalibration)) A short tutorial on calibrating and validating 3D point projection using a 2D camera and the matlab computer vision toolbox..
+* **Camera Proejction Tutorial** ([code](https://github.com/jaspereb/CameraProjectionCalibration)) A short tutorial on calibrating and validating 3D point projection using a 2D camera and the Matlab computer vision toolbox.
 
 <br>
 ___
@@ -76,7 +76,7 @@ ___
 
 
 # My Thesis
-My PhD thesis has focused on grasping and manipulation technologies for robotics in agriculture, in order to approach the problem of harvesting soft fruit, such as plums. As part of this I worked with a wide range of researchers, advisors, technical staff and friends at the ACFR to develop a prototype harvester and test this on a commercial plum crop. In my thesis I also examine object detector architectures, filter tuning using the autocovariance least-sqares method, active perception for bearings-only fruit localisation, stochastic object reconstruction and monocular depth inference. 
+My PhD thesis has focused on grasping and manipulation technologies for robotics in agriculture, in order to approach the problem of harvesting soft fruit, such as plums. As part of this I worked with a wide range of researchers, advisers, technical staff and friends at the ACFR to develop a prototype harvester and test this on a commercial plum crop. In my thesis I also examine object detector architectures, filter tuning using the autocovariance least-squares method, active perception for bearings-only fruit localisation, stochastic object reconstruction and monocular depth inference. 
 
 In addition to the links for the above papers, the following was developed for the thesis:
 
