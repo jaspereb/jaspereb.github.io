@@ -12,7 +12,7 @@ Hi!  I'm Jasper, a PhD student at the Australian Centre for Field Robotics, Univ
 </p>
 <p align="center"> 
   <a href="https://scholar.google.com.au/citations?user=Wf5fKu0AAAAJ&hl=en">Google Scholar</a> |
-  <a href="https://au.linkedin.com/in/jasper-brown-aaa421b4">LinkedIn</a> |
+  <a href="https://www.linkedin.com/in/jasperebrown/">LinkedIn</a> |
   <a href="mailto:jasperebrown@gmailcom">Email</a>
 </p>
 
