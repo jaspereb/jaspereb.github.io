@@ -4,7 +4,9 @@ permalink: /
 ---
 
 <p align="center">
-Hi!  I'm Jasper, a PhD student at the Australian Centre for Field Robotics, University of Sydney. I've spent the past 4 years examining how robotics can play a positive role in agriculture, with a specific focus on physical interaction and grasping. My research areas include robotic perception, hardware design, data filtering and motion planning, as applied to grasping & manipulation.
+Hi!  I'm Jasper, a robotics software engineer specialising in navigation, perception, manipulation and system design. I have passion for writing simple, testable and clean code which implements cutting edge techniques from robotics and machine learning while using the latest frameworks and industry best practice. Since 2022 I’ve been working for [Emesent](https://www.emesent.com/), working on navigation and perception for their advanced drone autonomy stack. 
+
+In 2021 I completed my PhD at the Australian Centre for Field Robotics, at The University of Sydney. This focused on the role of robotics in agriculture, with technical contributions to estimation, physical interaction and grasping in agricultural robotics.
 </p>
 
 <p align="center">
@@ -90,7 +92,9 @@ ___
 <br>
 
 # Current Work
-After completing my thesis in 2021 I began working on the Meat & Livestock Australia Donor Company project: Objective, robust, real-time animal welfare measures for the Australian red meat industry (P.PSH.0819). We are working to apply cutting edge robotics and machine vision tools to improve both animal welfare and farm productivity together and support Australian farmers. The automated aerial animal detection paper came from this work, and investigations are continuing into this area. 
+I currently work for the drone autonomy and 3D mapping company [Emesent](https://www.emesent.com/).
+
+Previously, I worked on the Meat & Livestock Australia Donor Company project: Objective, robust, real-time animal welfare measures for the Australian red meat industry (P.PSH.0819). We worked to apply cutting edge robotics and machine vision tools to improve both animal welfare and farm productivity together and support Australian farmers. The automated aerial animal detection paper came from this work, and investigations are continuing into this area. 
 
 <br>
 <p align="center">
