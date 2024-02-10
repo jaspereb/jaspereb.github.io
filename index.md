@@ -5,11 +5,13 @@ permalink: /
 
 <p align="center">
 Hi!  I'm Jasper, a robotics software engineer specialising in navigation, perception, manipulation and system design. I have passion for writing clear, testable and robust code to develop systems which effectively handle real world edge cases and perform well in natural and human environments. I think a systems level approach is essential to bringing electrical, mechanical and software components together with understanding of the use case and environment in order to build solutions that deliver real commercial value.
+</p>
 
-
+<p align="center">
 Since 2022 I’ve been working for [Emesent](https://www.emesent.com/) as part of the robotic autonomy team, developing navigation, perception and behaviour algorithms for fully autonomous GPS denied drone operations as well as legged ground vehicle prototypes. 
+</p>
 
-
+<p align="center">
 In 2021 I completed my PhD at the Australian Centre for Field Robotics, at The University of Sydney. This focused on the role of robotics in agriculture, with technical contributions to estimation, physical interaction and grasping in agricultural robotics.
 </p>
 
