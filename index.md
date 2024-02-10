@@ -43,7 +43,7 @@ Previously, I worked on the Meat & Livestock Australia Donor Company project: Ob
 [data](http://data.acfr.usyd.edu.au/Agriculture/PlumDetection/) | [paper](https://arxiv.org/abs/2105.03832)
 
  <br/><br/>
-  <br/><br/>
+ <br/><br/>
 
 
 <img align="right" src="images/ALS_2.jpg" width="300"> **Improved Noise Covariance Estimation in Visual Servoing Using an Autocovariance Least-Squares Approach**  
@@ -65,7 +65,7 @@ Previously, I worked on the Meat & Livestock Australia Donor Company project: Ob
  <br/><br/>
  
 <img align="right" src="images/COMPAG.png" width="300">  **Automated Aerial Animal Detection When Spatial Resolution Conditions Are Varied**  
-*Brown, J, Qiao, Y, Clark, C, Lomax, S, Rafique, K, Sukkarieh, S, “Automated Aerial Animal Detection When Spatial Resolution Conditions Are Varied ,” submitted to Computers and Electronics in Agriculture, 2021.*  
+*Brown, J, Qiao, Y, Clark, C, Lomax, S, Rafique, K, Sukkarieh, S, “Automated Aerial Animal Detection When Spatial Resolution Conditions Are Varied ,” *  
 [paper](https://arxiv.org/abs/2110.01329))
  
  <br>
