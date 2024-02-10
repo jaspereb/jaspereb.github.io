@@ -8,7 +8,7 @@ Hi!  I'm Jasper, a robotics software engineer specialising in navigation, percep
 </p>
 
 <p align="center">
-Since 2022 I’ve been working for [Emesent](https://www.emesent.com/) as part of the robotic autonomy team, developing navigation, perception and behaviour algorithms for fully autonomous GPS denied drone operations as well as legged ground vehicle prototypes. 
+Since 2022 I’ve been working for Emesent as part of the robotic autonomy team, developing navigation, perception and behaviour algorithms for fully autonomous GPS denied drone operations as well as legged ground vehicle prototypes. 
 </p>
 
 <p align="center">
