@@ -30,6 +30,10 @@ In 2021 I completed my PhD at the Australian Centre for Field Robotics, at The U
 
 Our stack is built on the world leading Wildcat SLAM algorithm. My day to day work is in ROS with C++ and python for developing modern 3D perception, navigation and planning modules for mobile ground robots and drones. We support several platforms and Lidar types, with significant in house expertise in accelerated computing and real time operation.
 
+<p align="center">
+  <img src="images/Chair.png" width="450" />
+</p>
+
 Previously, I worked on the Meat & Livestock Australia Donor Company project: Objective, robust, real-time animal welfare measures for the Australian red meat industry (P.PSH.0819). We worked to apply cutting edge robotics and machine vision tools to improve both animal welfare and farm productivity together and support Australian farmers. The automated aerial animal detection paper came from this work, and investigations are continuing into this area. 
 
 # My Publications
